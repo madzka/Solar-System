@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c_my_first_telescope" path="TOPICS/c_my_first_telescope.html"/>
+   <appContext helpID="c_observing_planets" path="TOPICS/c_observing_planets.html"/>
+   <appContext helpID="c_rotating_sky_map" path="TOPICS/c_rotating_sky_map.html"/>
+   <appContext helpID="r_links" path="TOPICS/r_links.html"/>
+   <appContext helpID="r_useful_applications" path="TOPICS/r_useful_applications.html"/>
+   <appContext helpID="r_youtube_channels" path="TOPICS/r_youtube_channels.html"/>
+   <appContext helpID="t_explore_the_night_sky"
+               path="TOPICS/t_explore_the_night_sky.html"/>
+   <appContext helpID="t_useful_astroaccessories"
+               path="TOPICS/t_Useful_AstroAccessories.html"/>
+   <appContext helpID="t_when_where_and_how_to_see_the_planets_in_2021"
+               path="TOPICS/t_when_where_and_how_to_see_the_planets_in_2021.html"/>
+</map>
